@@ -10,7 +10,7 @@ License: GPL2
 */
 
 // debugging
-define('LOGFILE', '/home/alis/sites/alisfranklin.com/logs/tumblr.log');
+define('LOGFILE', '');
 
 // include our other files
   include_once( dirname(__FILE__) .'/tumblr.class.php' );
